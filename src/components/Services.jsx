@@ -8,7 +8,7 @@ const items = [
     icon: <img width="22" height="22" src={iconFrontend} alt="Frontend" />,
   },
   {
-    title: "MERN Stack Developer",
+    title: "React Developer",
     icon: <img width="22" height="22" src={iconMern} alt="MERN" />,
   },
   // {

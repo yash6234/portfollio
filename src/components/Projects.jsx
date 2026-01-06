@@ -19,6 +19,30 @@ const projects = [
     github: "https://github.com/yash6234/worldwise.git",
     live: "#",
   },
+  {
+    title: "AzureMed (Healthcare UI)",
+    tags: ["nextjs", "tailwindcss", "javascript"],
+    desc: "Make a different UI for the healthcare website using nextjs and tailwindcss.",
+    video: wwVideo,
+    github: "#",
+    live: "#",
+  },
+  {
+    title: "E-Commerce Platform",
+    tags: ["React", "Redux"],
+    desc: "Implemented product listing, cart interactions, and order flow using reusable UI components.",
+    video: wwVideo,
+    github: "#",
+    live: "#",
+  },
+  {
+    title: "Billbuddy",
+    tags: ["React", "Rest API"],
+    desc: "Built responsive expense tracking UI with category filters and real-time balance updates..",
+    video: wwVideo,
+    github: "#",
+    live: "#",
+  },
 ];
 
 export default function Projects({ hideTitle = false }) {
