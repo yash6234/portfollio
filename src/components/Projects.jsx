@@ -1,6 +1,7 @@
 import React from "react";
 import abVideo from "../assets/Ab video.mov";
 import wwVideo from "../assets/ww video.mov";
+import azuremedVideo from "../assets/Azuremed.mov";
 
 const projects = [
   {
@@ -23,7 +24,7 @@ const projects = [
     title: "AzureMed (Healthcare UI)",
     tags: ["nextjs", "tailwindcss", "javascript"],
     desc: "Make a different UI for the healthcare website using nextjs and tailwindcss.",
-    video: wwVideo,
+    video: azuremedVideo,
     github: "#",
     live: "#",
   },
@@ -31,7 +32,7 @@ const projects = [
     title: "E-Commerce Platform",
     tags: ["React", "Redux"],
     desc: "Implemented product listing, cart interactions, and order flow using reusable UI components.",
-    video: wwVideo,
+    video: "#",
     github: "#",
     live: "#",
   },
@@ -39,7 +40,7 @@ const projects = [
     title: "Billbuddy",
     tags: ["React", "Rest API"],
     desc: "Built responsive expense tracking UI with category filters and real-time balance updates..",
-    video: wwVideo,
+    video: "#",
     github: "#",
     live: "#",
   },

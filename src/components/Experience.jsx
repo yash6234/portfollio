@@ -7,7 +7,7 @@ export default function Experience({ hideTitle = false }) {
       <div className="experience-list">
         <div className="experience-item">
           <h3>Summer Intern – Infolabz</h3>
-          <span className="experience-duration">June 2024 – August 2024</span>
+          <span className="experience-duration">June 2024 – Mar 2025</span>
           <p className="experience-desc">
             Completed a hands-on internship focused on web development and MERN
             stack. Contributed to building and debugging real-world applications
